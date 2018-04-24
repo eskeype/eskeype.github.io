@@ -26,7 +26,7 @@ Note: I have recorded the space and time complexities for each algorithm below. 
 
 # Solution 1 - Recursion
 
-Runtime complexity: $$O(\phi^n)$$, where \phi is the golden ratio ($$\phi \simeq 1.618...$$)
+Runtime complexity: $$O(\phi^n)$$, where $$\phi$$ is the golden ratio ($$\phi \simeq 1.618...$$)
 
 Space complexity: $$O(n)$$
 
